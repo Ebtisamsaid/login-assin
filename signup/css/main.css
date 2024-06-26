@@ -1,0 +1,18 @@
+.container{
+    box-shadow: -5px 2px 54px -5px rgba(0, 0, 0, 1);;
+}
+ ::placeholder{color: white !important
+
+}
+.btn:hover{
+    background-color:rgb(28, 192, 186) ;
+}body{
+    box-sizing: border-box;
+}
+.navbar .container{
+    box-shadow:  -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.welcome
+{
+    top: 20%;
+}
